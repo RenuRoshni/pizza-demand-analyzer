@@ -1,6 +1,6 @@
-# Pizza Sales Dashboard
+# Pizza Demand Analyzer
 
-This Power BI Pizza Sales Dashboard provides an in-depth analysis of pizza sales data, emphasizing key metrics such as total revenue, average order value, total pizzas sold, and order trends. It enables pizza businesses to understand sales performance, identify peak periods, top-selling products, and customer preferences, aiding in data-driven decision-making.
+This Power BI Pizza Demand Analyzer Dashboard provides an in-depth analysis of pizza sales data, emphasizing key metrics such as total revenue, average order value, total pizzas sold, and order trends. It enables pizza businesses to understand sales performance, identify peak periods, top-selling products, and customer preferences, aiding in data-driven decision-making.
 
 ## KPIs (Key Performance Indicators)
 - **Total Revenue:** Calculate and display the overall revenue generated from pizza sales.
@@ -61,4 +61,4 @@ AI-powered features like Smart Narratives, Q&A, and Key Influencers in Power BI 
 3. **Interact:** Use the slicers and filters to explore data dynamically and customize the analysis.
 
 ## Conclusion
-The Pizza Sales Dashboard offers a comprehensive view of sales performance, enabling businesses to track key metrics, identify trends, and make data-driven decisions to optimize operations and boost profitability.
+The Pizza Demand Analyzer Dashboard offers a comprehensive view of sales performance, enabling businesses to track key metrics, identify trends, and make data-driven decisions to optimize operations and boost profitability.
